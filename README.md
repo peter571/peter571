@@ -1,7 +1,9 @@
 ### Hi there, 👋 I'm Peter - Full Stack and Web3 Developer 
 
+<p align="center">
 <img  width="47%" src="https://github-readme-stats.vercel.app/api?username=peter571&count_private=true&show_icons=true" align="left" alt="GitHub Readme Stats" />
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter571&layout=compact&hide=html,css,shell,procfile" align="left" alt="GitHub Readme Stats" />
+</p>
 
 <br>
 <br>
