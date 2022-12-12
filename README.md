@@ -11,15 +11,16 @@ A passionate software engineer translating business requirements into software p
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter571&layout=compact&hide=html,css,shell,procfile" align="left" alt="GitHub Readme Stats" />
 </p>
 
-<br>
+<br/><br/>
 
 ### Languages
+
 <p align="center">
 <img  width="" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="left" alt="GitHub Readme Stats" />
 <img  width="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left" alt="GitHub Readme Stats" />
 </p>
 
-<br>
+<br/><br/>
 
 ### Framework and Libraries
 
