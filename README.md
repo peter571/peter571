@@ -2,7 +2,7 @@
 
 A passionate software engineer translating business requirements into software products and programs. My range of development includes:
 
-✨ Developing full stack Web Applications: I have experience in trending stacks such as MERN.
+✨ Developing full stack Web Applications: I have experience in trending stacks such as MERN and cloud-based web development services such as Wix.
 
 ✨ Developing full stack Blockchain Solutions: Including the core network setup, architecture design, business logic implementation, all the way up to front end and application designs.
 
