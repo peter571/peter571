@@ -1,10 +1,6 @@
-### Hi there, 👋 I'm Peter - Full Stack TypeScript and Web3 Developer 
-
-A passionate software engineer translating business requirements into software products and programs. My range of development includes:
-
-✨ Developing full stack Web Applications: I have experience in trending stacks such as MERN and cloud-based web development services such as Wix.
-
-✨ Developing full stack Blockchain Solutions: Including the core network setup, architecture design, business logic implementation, all the way up to front end and application designs.
+### Hi there, 👋 I'm Peter - Full Stack Engineer 
+✨ 
+✨ 
 
 <p align="center">
 <img  width="47%" src="https://github-readme-stats.vercel.app/api?username=peter571&count_private=true&show_icons=true" align="left" alt="GitHub Readme Stats" />
@@ -13,16 +9,10 @@ A passionate software engineer translating business requirements into software p
 
 <br/><br/>
 
-### Languages
-
 <p align="center">
 <img  width="" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="left" alt="GitHub Readme Stats" />
 <img  width="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left" alt="GitHub Readme Stats" />
 </p>
-
-<br/><br/>
-
-### Framework and Libraries
 
 <p align="center">
 <img  width="" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left" alt="GitHub Readme Stats" />
