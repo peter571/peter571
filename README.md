@@ -1,33 +1,36 @@
-### Hi there, 👋 I'm Peter - Full Stack Engineer 
-✨ 
-✨ 
+### Hi there, 👋 I'm Peter Kipkoech - Full Stack Engineer ✨ 
 
-<p align="center">
-<img  width="47%" src="https://github-readme-stats.vercel.app/api?username=peter571&count_private=true&show_icons=true" align="left" alt="GitHub Readme Stats" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter571&layout=compact&hide=html,css,shell,procfile" align="left" alt="GitHub Readme Stats" />
-</p>
+#### 
+A software developer, specializing in creating high-quality, scalable full stack applications using a range of cutting-edge technologies. With expertise in React, Node JS, Express, Python, Flask, Postgres and Mongo DB, I am able to build powerful microservices that deliver exceptional performance and reliability.
 
-<br/><br/>
+### Skills: 
 
-<p align="center">
-<img  width="" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="left" alt="GitHub Readme Stats" />
-<img  width="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left" alt="GitHub Readme Stats" />
-</p>
+• TypeScript
+• JavaScript
+• Node JS
+• Express
+• React
+• Python
+• Flask
+• Postgres
+• Mongo DB
+• Docker
+• Google Cloud Platform
 
-<p align="center">
-<img  width="" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left" alt="GitHub Readme Stats" />
-<img  width="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" align="left" alt="GitHub Readme Stats" />
-<img  width="" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" align="left" alt="GitHub Readme Stats" />
-<img  width="" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left" alt="GitHub Readme Stats" />
-<img  width="" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" align="left" alt="GitHub Readme Stats" />
-</p>
 
-<br>
 
-<h2>👨‍💻 Freelance Work Projects:</h2>
+<img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter571&layout=compact&hide=html,css,shell,procfile" align="" alt="GitHub Readme Stats" />
 
-- <b>NFT minting Dapp - React frontend and ERC721 smart contract</b>
-  - [Pintxos NFT collection](https://github.com/denisakera/npxs) <p><i>This is a project by food enthusiasts and design researchers from the University of Malta. It explores unique dining experiences that connect food chains with blockchains and bridge the gap between real life and metaverse experiences. It was interested in the interaction between protocols for owning pixels, meeting and dining with strangers, and tasting elaborate dishes inspired by generative algorithms, timestamped metadata, and other blockchain rituals.</i></p>
+
+### Experience
+
+
+<h2>👨‍💻 Freelance Experience:</h2>
+
+- <b>NFT minting Dapp - React frontend and ERC721 smart contract [Pintxos NFT collection](https://github.com/denisakera/npxs)</b>
+  -  <p>Designed and developed a leaderboard page to track NFT ownership and showcase top owners.</p>
+  -  <p>Developed a React frontend page for minting NFTs, enabling users to easily connect wallets and mint NFTs.</p>
+  -  <p>Integrated APIs to smart contracts, providing seamless and secure transactions for NFT minting and track ownerships.</p>
 - <b>Wix Velo website development (Wix Velo Javascript)</b>
   - [WiTMCS](https://www.witmcs.com/) <p><i>Built advanced filters, data collections setup and backend development</p></i>
   - [Urbomo](https://www.urbomo.com/) <p><i>Developed a product configurer and stripe Payment Integrations</p></i>
