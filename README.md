@@ -19,8 +19,6 @@ A software developer, specializing in creating high-quality, scalable full stack
 
 
 
-<img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=peter571&layout=compact&hide=html,css,shell,procfile" align="" alt="GitHub Readme Stats" />
-
 
 ### Experience
 
