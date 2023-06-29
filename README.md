@@ -14,6 +14,7 @@ A software developer, specializing in creating high-quality, scalable full stack
 • Flask
 • Postgres
 • Mongo DB
+• Redis
 • Docker
 • Google Cloud Platform
 
@@ -41,8 +42,8 @@ A software developer, specializing in creating high-quality, scalable full stack
   
 - <b>[Real Estate Listing Web App](https://github.com/peter571/real-estate-app) (React, TypeScript, Python, Flask, Postgres)</b>
   -  <p><i>A real estate listing web app venture that aims to connect people searching for properties with available properties. Realtors get to list their properties and customers can search and contact realtors.</i></p>
-- <b>[Crypto Assets visualizer with Graphs](https://github.com/peter571/crypto-assets-visualizer) (React)</b> 
-  - <p>A great Web Application with a single Landing page to visualize upto 100 different assets that are available on major exchanges like Binance, CoinMarket, CoinGecko etc. Gets insights on how your favorite assets in doing on the markets.</p>
+- <b>[Task Manager Web App](https://github.com/peter571/Task-IO) (React, TypeScript, Node JS, Express, Mongo DB, Redis)</b> 
+  - <p>A full stack web application that helps teams to collaborate effecciently. The web app has a realtime chat application feature, task management tracker for teams to be upto date with one another, assign tasks to team members and ability to manage multiple teams in different work spaces. A good platform for project managers to organize teams and task management.</p>
  
 <h2>👨‍💻 Other projects:</h2>
  
