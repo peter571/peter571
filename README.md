@@ -33,8 +33,10 @@ A software developer, specializing in creating high-quality, scalable full stack
 - <b>Wix Velo website development (Wix Velo Javascript) [Urbomo](https://www.urbomo.com/) </b>
   -  <p>Developed a product configurer to streamline the product customization process and improve customer satisfaction.</p> 
   -  <p>Integrated Stripe payment functionality, enabling secure and efficient online payments.</p> 
-- <b>Wix Velo website development (Wix Velo Javascript) [WiTMCS](https://www.witmcs.com/)</b> 
-  -  <p>Built advanced search filters, setup data collections and wrote javascript scripts to integrate with data in collections.</p>
+- <b>Musicwork.com (Freelance web developer) [Musicwork](https://www.musicwork.com/)</b> 
+  -  <p>Successfully helped this client develop a carousel image slider custom feature not available on the Wix platform. 
+      With my Javascript, HTML, and CSS skills, I helped the client ship this feature into the website.
+</p>
   
 
 
