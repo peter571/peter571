@@ -10,6 +10,7 @@ A software developer, specializing in creating high-quality, scalable full stack
 • Node JS
 • Express
 • React
+• React Native
 • Python
 • Flask
 • Postgres
