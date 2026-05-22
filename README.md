@@ -1,6 +1,6 @@
 # Hi, I'm Peter Kipkoech - Software Developer
 
-**Mobile & web app developer** · React Native · Expo · Next.js · Convex
+**Mobile & web app developer** · React Native · Expo · Next.js
 
 I turn ideas into products people can use and enjoy—fast, reliable, and user-friendly experiences for startups that need to move quickly without sacrificing quality.
 
